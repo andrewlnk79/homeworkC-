@@ -1,0 +1,15 @@
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\bin\Debug\net6.0\task27.exe
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\bin\Debug\net6.0\task27.deps.json
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\bin\Debug\net6.0\task27.dll
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\bin\Debug\net6.0\task27.pdb
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.dll
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\refint\task27.dll
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.pdb
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+C:\Users\anlin\OneDrive\Рабочий стол\cSharp\lesson4\task27\obj\Debug\net6.0\ref\task27.dll
